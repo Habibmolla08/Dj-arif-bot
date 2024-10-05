@@ -7,14 +7,14 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "উ্ঁফ্ঁ বা্ঁবু্ঁ উ্ঁম্মা্ঁ-bot",
+  "BOTNAME": "ARIF-BOT",
   "PREFIX": ".",
   "OPERATOR": [
     "100095089282395",
-    "100"
+    "100087942828956"
   ],
   "ADMINBOT": [
-    "100095089282395",
+    "100087942828956",
     ""
   ],
   "OWNER": ["100000959749712"], 
